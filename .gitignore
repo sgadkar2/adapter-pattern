@@ -1,0 +1,10 @@
+# Compiled class files
+*.class
+
+# VS Code #
+.vscode/
+
+# macOS #
+.DS_Store
+.AppleDouble
+.LSOverride
