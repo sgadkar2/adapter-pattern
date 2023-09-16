@@ -1,6 +1,6 @@
 package classadapter;
 
-public class DequeImpl<E> extends DLlist<E> implements Deque<E> {
+public class DequeImpl2<E> extends DLlist<E> implements Deque<E> {
 
     @Override
     public void addLast(E e) {

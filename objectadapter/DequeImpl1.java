@@ -1,10 +1,10 @@
 package objectadapter;
 
-public class DequeImpl<E> implements Deque<E>{
+public class DequeImpl1<E> implements Deque<E>{
 
     DLlist<E> dLlist;
 
-    public DequeImpl(DLlist<E> dLlist) {
+    public DequeImpl1(DLlist<E> dLlist) {
         this.dLlist = dLlist;
     }
 
